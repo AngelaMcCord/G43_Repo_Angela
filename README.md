@@ -11,7 +11,7 @@ Este proyecto contiene bastantes prácticas sobre las etiquetas esenciales en ht
 Se recomienda practicar más el html semántico secciones como div section y article
 
 ---
-Pra ver este proyecto te invito a dar click en el siguiente [Link fachero](https://angelamccord.github.io/G43_Repo_Angela/)
+Para ver este proyecto te invito a dar click en el siguiente [Link fachero 😎](https://angelamccord.github.io/G43_Repo_Angela/)
 
 ## Autor
 
