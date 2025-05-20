@@ -8,7 +8,7 @@ Este proyecto contiene bastantes prácticas sobre las etiquetas esenciales en ht
 - div
 - p
 
-Se recomienda practicar más el htmal semántico secciones como div section y article
+Se recomienda practicar más el html semántico secciones como div section y article
 
 ---
 
